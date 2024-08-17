@@ -1,0 +1,890 @@
+Jul 21 20:51:19 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:51:19 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:51:19 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:51:19 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:51:20 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:20 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:20 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:51:20 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:51:20 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:51:26 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:51:26 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:51:26 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:51:26 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:26 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:51:26 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:51:26 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:26 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:26 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:51:26 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:51:27 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:27 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:27 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:51:27 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:51:27 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:51:27 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:51:27 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:51:27 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:51:27 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:51:27 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:51:27 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:51:27 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:51:28 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:51:28 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:51:28 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:51:28 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:51:28 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:51:28 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:28 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:29 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:29 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:51:29 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:51:29 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:51:29 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:51:29 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:29 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:29 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:29 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:51:29 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:29 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:51:29 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:51:29 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:51:29 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:51:30 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:51:30 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:51:30 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:51:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:51:30 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:51:30 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:51:30 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:51:30 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:51:30 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:30 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:51:30 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:51:31 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:51:31 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:51:31 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:51:31 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:31 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:31 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:51:31 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:51:31 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:51:37 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:51:37 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:51:37 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:51:38 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:38 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:51:38 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:51:38 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:38 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:38 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:51:38 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:51:38 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:38 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:51:38 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:38 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:38 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:51:38 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:38 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:51:38 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:51:38 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:51:38 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:51:39 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:51:39 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:51:39 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:51:39 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:51:39 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:51:39 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:51:39 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:51:40 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:51:40 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:51:40 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:51:40 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:51:40 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:51:40 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:40 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:40 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:40 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:51:40 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:51:40 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:51:40 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:41 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:51:41 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:51:41 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:51:41 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:51:41 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:51:41 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:51:41 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:51:41 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:51:41 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:51:41 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:51:42 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:51:42 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:51:42 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:51:42 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:42 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:42 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:51:42 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:51:43 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:51:43 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:51:43 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:51:43 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:43 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:43 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:51:43 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:51:43 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:51:49 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:51:49 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:51:49 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:51:49 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:49 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:51:49 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:51:49 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:49 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:49 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:51:49 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:51:50 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:50 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:51:50 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:51:50 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:51:50 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:51:50 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:51:50 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:51:50 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:51:50 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:51:50 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:51:50 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:51:50 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:51:51 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:51:51 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:51:51 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:51:51 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:51:51 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:51:51 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:51:51 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:51:52 ared-machine python3[4035195]: No items to process.
+Jul 21 20:51:52 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:51:52 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:51:52 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:51:52 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:51:52 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:52 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:51:52 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:52 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:51:52 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:51:52 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:51:52 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:51:52 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:51:52 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:51:53 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:51:53 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:51:53 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:51:53 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:51:53 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:51:53 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:51:53 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:51:53 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:51:54 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:54 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:51:54 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:51:54 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:51:54 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:51:54 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:51:54 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:51:54 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:54 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:51:54 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:51:54 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:51:54 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:52:00 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:52:00 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:52:00 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:52:01 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:01 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:52:01 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:52:01 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:01 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:01 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:52:01 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:52:01 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:01 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:52:01 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:01 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:01 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:52:01 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:01 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:52:01 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:52:01 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:52:01 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:52:02 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:52:02 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:52:02 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:52:02 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:52:02 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:52:02 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:52:02 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:52:03 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:52:03 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:52:03 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:52:03 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:52:03 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:52:03 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:03 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:03 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:03 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:52:03 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:52:03 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:52:03 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:04 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:52:04 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:52:04 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:52:04 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:52:04 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:52:04 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:52:04 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:52:04 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:52:04 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:52:04 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:52:05 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:52:05 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:52:05 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:52:05 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:05 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:05 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:52:05 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:52:06 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:52:06 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:52:06 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:52:06 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:06 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:06 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:52:06 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:52:06 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:52:12 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:52:12 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:52:12 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:52:12 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:12 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:52:12 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:52:12 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:12 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:12 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:52:12 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:52:13 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:13 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:13 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:52:13 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:52:13 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:52:13 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:52:13 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:52:13 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:52:13 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:52:13 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:52:13 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:52:13 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:52:14 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:52:14 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:52:14 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:52:14 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:52:14 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:52:14 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:14 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:15 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:15 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:52:15 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:52:15 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:52:15 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:52:15 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:15 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:15 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:15 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:52:15 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:15 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:52:15 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:52:15 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:52:15 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:52:16 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:52:16 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:52:16 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:52:16 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:52:16 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:52:16 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:52:16 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:52:16 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:52:16 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:16 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:16 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:52:16 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:52:17 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:52:17 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:52:17 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:52:17 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:17 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:17 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:52:17 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:52:17 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:52:23 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:52:23 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:52:23 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:52:24 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:24 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:52:24 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:52:24 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:24 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:24 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:52:24 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:52:25 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:25 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:52:25 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:25 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:25 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:52:25 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:25 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:52:25 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:52:25 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:52:25 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:52:26 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:52:26 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:52:26 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:52:26 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:52:26 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:52:26 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:52:26 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:52:27 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:52:27 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:52:27 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:52:27 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:52:27 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:52:27 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:27 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:28 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:28 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:52:28 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:52:28 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:52:28 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:52:28 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:28 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:28 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:28 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:52:28 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:29 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:52:29 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:52:29 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:52:29 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:52:29 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:52:29 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:52:29 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:29 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:52:29 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:52:29 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:52:29 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:52:29 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:52:29 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:52:30 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:52:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:52:30 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:52:30 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:30 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:52:30 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:52:30 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:52:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:52:30 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:52:30 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:30 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:52:30 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:52:30 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:52:36 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:52:36 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:52:36 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:52:37 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:37 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:52:37 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:52:37 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:37 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:37 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:52:37 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:52:38 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:38 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:38 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:52:38 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:52:38 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:52:38 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:52:38 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:52:38 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:52:38 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:52:38 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:52:38 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:52:38 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:52:39 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:52:39 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:52:39 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:52:39 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:52:39 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:52:39 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:39 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:39 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:39 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:52:39 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:52:39 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:52:39 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:52:40 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:40 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:40 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:40 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:52:40 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:40 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:52:40 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:52:40 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:52:40 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:52:41 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:52:41 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:52:41 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:52:41 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:52:41 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:52:41 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:52:41 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:52:41 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:52:41 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:41 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:41 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:52:41 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:52:42 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:52:42 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:52:42 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:52:42 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:42 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:42 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:52:42 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:52:42 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:52:48 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:52:48 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:52:48 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:52:49 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:49 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:52:49 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:52:49 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:49 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:49 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:52:49 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:52:49 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:49 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:52:49 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:49 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:52:49 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:52:49 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:52:49 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:52:49 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:52:49 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:52:49 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:52:50 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:52:50 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:52:50 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:52:50 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:52:50 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:52:50 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:52:50 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:52:50 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:52:50 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:52:50 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:52:50 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:52:50 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:52:50 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:52:50 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:52:51 ared-machine python3[4035195]: No items to process.
+Jul 21 20:52:51 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:52:51 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:52:51 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:52:51 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:52:52 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:52:52 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:52:52 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:52:52 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:52:52 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:52:52 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:52:52 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:52:52 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:52:52 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:52:52 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:52:53 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:52:53 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:52:53 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:52:53 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:53 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:52:53 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:52:53 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:52:53 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:52:53 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:52:53 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:52:54 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:54 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:52:54 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:52:54 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:52:54 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:53:00 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:53:00 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:53:00 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:53:02 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:02 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:53:02 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:53:02 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:02 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:02 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:53:02 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:53:03 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:03 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:53:03 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:03 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:03 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:53:03 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:03 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:53:03 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:53:03 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:53:03 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:53:05 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:53:05 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:53:05 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:53:05 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:53:05 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:53:05 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:53:05 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:53:06 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:53:06 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:53:06 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:53:06 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:53:06 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:53:06 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:06 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:07 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:07 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:53:07 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:53:07 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:53:07 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:53:08 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:08 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:08 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:08 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:53:08 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:08 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:53:08 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:53:08 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:53:08 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:53:09 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:53:09 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:53:09 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:53:09 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:53:09 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:53:09 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:53:09 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:53:09 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:53:09 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:09 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:09 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:53:09 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:53:10 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:53:10 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:53:10 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:53:10 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:10 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:10 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:53:10 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:53:10 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:53:16 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:53:16 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:53:16 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:53:17 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:17 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:53:17 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:53:17 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:17 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:17 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:53:17 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:53:17 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:17 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:53:17 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:17 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:17 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:53:17 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:17 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:53:17 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:53:17 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:53:17 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:53:18 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:53:18 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:53:18 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:53:18 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:53:18 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:53:18 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:53:18 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:53:18 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:53:18 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:53:18 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:53:18 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:53:18 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:53:18 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:18 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:20 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:20 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:53:20 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:53:20 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:53:20 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:53:20 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:20 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:20 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:20 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:53:20 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:20 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:53:20 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:53:20 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:53:20 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:53:21 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:21 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:53:21 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:53:21 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:21 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:53:21 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:53:21 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:53:21 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:53:21 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:53:21 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:53:22 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:53:22 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:53:22 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:53:22 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:22 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:22 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:53:22 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:53:22 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:53:22 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:53:22 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:53:22 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:22 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:22 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:53:22 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:53:22 ared-machine python3[4035195]: Captive portal database synchronization completed.
+Jul 21 20:53:28 ared-machine python3[4035195]: Syncing captive portal database...
+Jul 21 20:53:28 ared-machine python3[4035195]: Current Super Realm: 53
+Jul 21 20:53:28 ared-machine python3[4035195]: The super realm has not changed. It is still: 53
+Jul 21 20:53:29 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:29 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  []
+Jul 21 20:53:29 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  []
+Jul 21 20:53:29 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:29 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:29 ared-machine python3[4035195]: Current Realm: 67
+Jul 21 20:53:29 ared-machine python3[4035195]: The realm has not changed. It is still: 67
+Jul 21 20:53:30 ared-machine python3[4035195]: Row with ID '206' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 206
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'video', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/9317cd0e-f0b5-4416-9633-0d17593f4216-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:30 ared-machine python3[4035195]: Row with ID '205' in the TABLE 'media' already exists. Updating the row...
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE media SET name = ?, description = ?, media_url = ?, image_url = ?, category = ?, realm = ? WHERE id = 205
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE VALUES: ['public location Realm', 'Video content', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d.mp4', 'https://storage.googleapis.com/m-shirki-media/files/realms/67/mobile-entertainment-hub/fe050aa7-737a-4d30-89b0-1aab674bdf1d-thumbnail.jpg', 'mobile-entertainment-hub', 67]
+Jul 21 20:53:30 ared-machine python3[4035195]: Existing API DB IDs for the media table:  [206, 205]
+Jul 21 20:53:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the media table:  [205, 206]
+Jul 21 20:53:30 ared-machine python3[4035195]: ID rows to remove from the media table:  set()
+Jul 21 20:53:30 ared-machine python3[4035195]: No old data to remove from media table
+Jul 21 20:53:30 ared-machine python3[4035195]: Row with ID '60' in the TABLE 'categories' already exists. Updating the row...
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE QUERY: UPDATE categories SET id = ?, name = ?, realm = ? WHERE id = 60
+Jul 21 20:53:30 ared-machine python3[4035195]: UPDATE VALUES: [60, 'mobile-entertainment-hub', 67]
+Jul 21 20:53:30 ared-machine python3[4035195]: Existing API DB IDs for the categories table:  [60]
+Jul 21 20:53:30 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the categories table:  [60]
+Jul 21 20:53:30 ared-machine python3[4035195]: ID rows to remove from the categories table:  set()
+Jul 21 20:53:30 ared-machine python3[4035195]: No old data to remove from categories table
+Jul 21 20:53:31 ared-machine python3[4035195]: Row with ID '75' in the TABLE 'ads' already exists. Updating the row...
+Jul 21 20:53:31 ared-machine python3[4035195]: UPDATE QUERY: UPDATE ads SET title = ?, short_description = ?, media_url = ?, media_type = ?, realm_id = ?, start_date = ?,  end_date = ? WHERE id = 75
+Jul 21 20:53:31 ared-machine python3[4035195]: UPDATE VALUES: ['AC Group', 'Ac group ad', 'https://storage.googleapis.com/m-shirki-media/adverts/realms/67/Video/TapGo_APP.mp4', 'Video', 67, '2024-06-18', '2024-06-19']
+Jul 21 20:53:31 ared-machine python3[4035195]: Existing API DB IDs for the ads table:  [75]
+Jul 21 20:53:31 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the ads table:  [75]
+Jul 21 20:53:31 ared-machine python3[4035195]: ID rows to remove from the ads table:  set()
+Jul 21 20:53:31 ared-machine python3[4035195]: No old data to remove from ads table
+Jul 21 20:53:31 ared-machine python3[4035195]: No items to process.
+Jul 21 20:53:31 ared-machine python3[4035195]: Existing API DB IDs for the surveys table:  []
+Jul 21 20:53:31 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the surveys table:  []
+Jul 21 20:53:31 ared-machine python3[4035195]: ID rows to remove from the surveys table:  set()
+Jul 21 20:53:31 ared-machine python3[4035195]: No old data to remove from surveys table
+Jul 21 20:53:32 ared-machine python3[4035195]: Row with ID '43' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 43
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE VALUES: [43, 'How do you connect back to the captive portal?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:32 ared-machine python3[4035195]: Row with ID '42' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 42
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE VALUES: [42, 'How is the process of using the captive portal to connect to the Internet?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 26]
+Jul 21 20:53:32 ared-machine python3[4035195]: Row with ID '41' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 41
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE VALUES: [41, 'How is the experience of the support?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:32 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'questions' already exists. Updating the row...
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE QUERY: UPDATE questions SET id = ?, text = ?, question_type = ?, questions_data = ?, survey = ? WHERE id = 40
+Jul 21 20:53:32 ared-machine python3[4035195]: UPDATE VALUES: [40, 'What is the average speed of the box?', 'Short Answer', '{"options":[],"rows":[],"columns":[]}', 25]
+Jul 21 20:53:32 ared-machine python3[4035195]: Existing API DB IDs for the questions table:  [43, 42, 41, 40]
+Jul 21 20:53:32 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the questions table:  [40, 41, 42, 43]
+Jul 21 20:53:32 ared-machine python3[4035195]: ID rows to remove from the questions table:  set()
+Jul 21 20:53:32 ared-machine python3[4035195]: No old data to remove from questions table
+Jul 21 20:53:33 ared-machine python3[4035195]: Row with ID '20' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 20
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE VALUES: [67, 'drinks', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/a0b071df-6d22-4108-8b25-c8fcc66bfa6d.pdf', 'Repub Bar Menu 2023.pdf', 'a284d600-453b-4df9-98af-67d3c2a6c659']
+Jul 21 20:53:33 ared-machine python3[4035195]: Row with ID '19' in the TABLE 'food_and_drinks_menus' already exists. Updating the row...
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE QUERY: UPDATE food_and_drinks_menus SET realm = ?, menu_type = ?, file = ?, original_file_name = ?, unique_id = ? WHERE id = 19
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE VALUES: [67, 'food', 'https://storage.googleapis.com/m-shirki-media/food-drink-menu/realms/67/12ec0f77-9c71-4b00-8288-8bc458767471.pdf', 'Repub Dining Menu 2023.pdf', 'bdf4e81a-97e2-4969-8ff9-5fd3168f7031']
+Jul 21 20:53:33 ared-machine python3[4035195]: Existing API DB IDs for the food_and_drinks_menus table:  [20, 19]
+Jul 21 20:53:33 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the food_and_drinks_menus table:  [19, 20]
+Jul 21 20:53:33 ared-machine python3[4035195]: ID rows to remove from the food_and_drinks_menus table:  set()
+Jul 21 20:53:33 ared-machine python3[4035195]: No old data to remove from food_and_drinks_menus table
+Jul 21 20:53:33 ared-machine python3[4035195]: Row with ID '40' in the TABLE 'box_owner_settings' already exists. Updating the row...
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE QUERY: UPDATE box_owner_settings SET id = ?, name = ?, has_captive_portal_access = ?, has_rating_feature_enabled = ?, has_voucher_sms_feature_enabled = ?, has_food_drink_menu_feature_enabled = ?, has_autoconnect_addon_enabled = ?, autoconnect_duration = ? WHERE id = 40
+Jul 21 20:53:33 ared-machine python3[4035195]: UPDATE VALUES: [40, 'public location', True, True, False, True, True, 600]
+Jul 21 20:53:33 ared-machine python3[4035195]: Existing API DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:33 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the box_owner_settings table:  [40]
+Jul 21 20:53:33 ared-machine python3[4035195]: ID rows to remove from the box_owner_settings table:  set()
+Jul 21 20:53:33 ared-machine python3[4035195]: No old data to remove from box_owner_settings table
+Jul 21 20:53:34 ared-machine python3[4035195]: Row with ID '13' in the TABLE 'captive_portal_settings' already exists. Updating the row...
+Jul 21 20:53:34 ared-machine python3[4035195]: UPDATE QUERY: UPDATE captive_portal_settings SET id = ?, name = ?, primary_message = ?, background_color = ?, logo = ? WHERE id = 13
+Jul 21 20:53:34 ared-machine python3[4035195]: UPDATE VALUES: [13, 'XANA HOTSPOT', 'Catalyzing Health Digitization', '#260859', 'https://storage.googleapis.com/m-shirki-media/captive-portal-logo/realms/67/a6a1ffc1-b9df-477c-a3ad-a11b3625fb18.png']
+Jul 21 20:53:34 ared-machine python3[4035195]: Existing API DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:34 ared-machine python3[4035195]: Existing Captive Portal DB IDs for the captive_portal_settings table:  [13]
+Jul 21 20:53:34 ared-machine python3[4035195]: ID rows to remove from the captive_portal_settings table:  set()
+Jul 21 20:53:34 ared-machine python3[4035195]: No old data to remove from captive_portal_settings table
+Jul 21 20:53:34 ared-machine python3[4035195]: Captive portal database synchronization completed.
+root@ared-machine:~# 

@@ -1,0 +1,1045 @@
+Jul 23 11:35:57 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:35:57 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:35:57 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:35:57 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:35:57 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:03 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:03 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:03 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:03 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:03 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:09 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:09 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:09 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:09 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:09 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:15 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:15 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:15 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:15 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:15 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:21 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:21 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:21 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:21 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:21 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:27 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:27 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:27 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:27 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:27 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:33 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:33 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:33 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:33 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:33 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:39 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:39 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:39 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:39 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:39 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:45 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:45 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:45 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:45 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:45 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:51 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:51 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:51 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:51 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:51 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:36:57 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:36:57 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:36:57 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:36:57 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:36:57 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:03 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:03 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:03 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:03 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:03 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:09 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:09 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:09 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:09 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:09 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:15 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:15 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:15 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:15 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:15 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:21 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:21 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:21 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:21 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:21 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:27 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:27 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:27 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:27 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:27 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:33 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:33 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:33 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:33 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:33 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:39 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:39 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:39 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:39 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:39 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:45 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:45 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:45 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:45 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:45 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:51 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:51 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:51 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:51 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:51 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:37:57 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:37:57 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:37:57 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:37:57 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:37:57 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:03 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:03 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:03 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:03 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:03 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:09 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:09 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:09 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:09 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:09 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:15 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:15 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:15 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:15 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:15 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:21 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:21 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:21 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:21 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:21 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:27 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:27 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:27 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:27 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:27 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:33 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:33 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:33 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:33 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:33 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:39 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:39 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:39 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:39 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:39 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:45 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:45 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:45 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:45 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:45 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:51 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:51 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:51 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:51 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:51 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:38:57 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:38:57 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:38:57 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:38:57 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:38:57 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:39:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:39:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:39:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:39:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:39:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:40:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:40:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:40:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:40:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:40:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:41:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:41:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:41:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:41:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:41:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:42:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:42:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:42:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:42:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:42:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:43:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:43:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:43:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:43:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:43:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:44:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:44:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:44:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:44:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:44:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:45:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:45:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:45:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:45:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:45:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:46:58 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:46:58 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:46:58 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:46:58 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:46:58 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:04 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:04 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:04 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:04 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:04 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:10 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:10 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:10 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:10 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:10 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:16 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:16 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:16 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:16 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:16 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:22 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:22 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:22 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:22 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:22 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:28 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:28 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:28 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:28 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:28 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:34 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:34 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:34 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:34 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:34 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:40 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:40 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:40 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:40 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:40 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:46 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:46 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:46 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:46 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:46 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:52 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:52 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:52 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:52 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:52 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:47:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:47:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:47:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:47:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:47:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:48:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:48:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:48:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:48:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:48:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:49:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:49:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:49:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:49:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:49:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:50:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:50:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:50:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:50:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:50:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:51:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:51:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:51:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:51:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:51:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:52:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:52:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:52:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:52:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:52:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:53:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:53:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:53:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:53:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:53:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:54:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:54:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:54:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:54:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:54:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:53 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:53 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:53 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:53 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:53 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:55:59 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:55:59 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:55:59 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:55:59 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:55:59 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:05 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:05 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:05 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:05 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:05 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:11 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:11 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:11 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:11 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:11 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:17 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:17 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:17 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:17 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:17 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:23 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:23 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:23 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:23 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:23 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:29 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:29 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:29 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:29 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:29 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:35 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:35 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:35 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:35 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:35 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:41 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:41 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:41 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:41 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:41 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
+Jul 23 11:56:47 ared-machine python3[2084]: Initializing captive portal database...
+Jul 23 11:56:47 ared-machine python3[2084]: Column 'has_autoconnect_addon_enabled' already exists.
+Jul 23 11:56:47 ared-machine python3[2084]: Column 'autoconnect_duration' already exists.
+Jul 23 11:56:47 ared-machine python3[2084]: Captive portal database initialized and its tables created successfully
+Jul 23 11:56:47 ared-machine python3[2084]: Only the missing tables and columns were added to avoid duplicates
